@@ -60,4 +60,16 @@ AI CEO runs locally with Ollama, allowing developers to customize the applicatio
 ## ▶️ Run
 
 ```bash
-python study_assistant.py
+python study_assistant.py## 🖼️ Screenshots
+
+### AI CEO Interface
+
+The AI CEO desktop application provides a clean interface for mathematics, geometry, study assistance, chat history, and image-based questions.
+
+### Mathematics & Geometry
+
+AI CEO supports mathematics and geometry problem solving with step-by-step explanations.
+
+### Image-Based Questions
+
+Upload a question image and use AI CEO to analyze and solve the problem.
