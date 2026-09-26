@@ -60,7 +60,7 @@ AI CEO runs locally with Ollama, allowing developers to customize the applicatio
 ## ▶️ Run
 
 ```bash
-python study_assistant.py## 🖼️ Screenshots
+python study_assistant.py
 
 ### AI CEO Interface
 
